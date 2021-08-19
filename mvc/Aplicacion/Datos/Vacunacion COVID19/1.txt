@@ -1,0 +1,10 @@
+DPI = 1
+Nombres = Raul
+Apellidos = Mendoza
+Edad = 30
+EstadoCivil = Casado
+Departamento = Sacatepequez
+Municipio = Ciudad Vieja
+Telefono = 55551417
+Correo = jfdkljf@gmail.com
+Vacuna = Sputnik V
