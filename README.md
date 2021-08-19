@@ -1,2 +1,4 @@
-# 4_Patrones_Arquitectonicos
-Grupo #4
+# GRUPO #4 PATRONES ARQUITECTURAA
+### Arquitecturas:
+### - MVC
+### - CAPAS
