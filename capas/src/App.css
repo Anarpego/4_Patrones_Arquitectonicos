@@ -1,0 +1,25 @@
+.success, .error {
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background: red;
+}
+
+.contenido {
+     display:grid;
+     grid-template-columns: 1fr 1fr;
+     text-align: left;
+}
+
+.card .card-wrapper {
+    display:grid;
+    grid-template-columns: 1fr 69px;
+    align-items: center;
+}
