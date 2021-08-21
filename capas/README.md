@@ -1,5 +1,5 @@
 # Javascript OOP Registro de vacunacion
-##Arquitectura Capas
+## Arquitectura Capas
 
 
 
