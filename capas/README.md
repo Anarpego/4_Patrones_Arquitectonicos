@@ -1,7 +1,7 @@
 # Javascript OOP Registro de vacunacion
-Vanilla Javascript Frontend CRUD usando programacion orientada a Objetos ES6
+##Arquitectura Capas
 
-![](docs/screenshot.png)
+
 
 # Iniciar el proyecto
 ```
